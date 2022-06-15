@@ -9,6 +9,10 @@
 - ffgpu: A moden full stack GPU model. (ISA and programming model)
 - Making Audio codec/DAC test PCB boards.
 
+# Miscs and random thoughts
+- [从2021看中国确定的趋势](https://github.com/shaowei-wang/miscs/blob/master/从2021看中国确定的趋势.md)
+
+
 <!--
 **shaowei-wang/shaowei-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
