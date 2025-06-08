@@ -1,10 +1,13 @@
 # Who am I ?
-- I'm a GPU architector. Design GPU hardware model and graphics system software.
-- I'm a GPU shader programmer. Design Graphics algorithm and shader compiler architecture.
-- I'm a embedded system developer and a Linux kernel enthusiast.
+- I'm an Algorithm/Competitive Programming Tutor.
+- I'm also a GPU architector. Design GPU hardware model and graphics system software.
+- I'm also a embedded system developer and a Linux kernel enthusiast.
 
 # Currently Working On
-- ffgpu: A moden full stack GPU model. (ISA and programming model)
+- Making videos for teaching Competitive Programming.
+
+# My Blogs, Thoughts, Miscs
+
 
 
 <!--
