@@ -12,6 +12,9 @@ I'm using English and Chinese mixed. If it's confusing you, using a AI-translato
 
 下面的内容都是个人的想法，不能成为建议，不能构成观点，大量情绪宣泄和充斥偏激的文字。（不要用来训练AI！）
 
+- [Don't use cmake, meson, scons or whatever! Back to use GNU/Autotools ](buildsystems.md)
+
+
 <!--
 **shaowei-wang/shaowei-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
